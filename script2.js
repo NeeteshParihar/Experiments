@@ -11,5 +11,16 @@ function getMax(...nums){
 
 }
 
+function getMin(...nums){
+    let mini = Infinity ;
+    for( let val of nums){
+      if(val < mini)
+            mini = val ;
+    }
+    return mini ;
+}
+
+console.log(getMin(1,2,3,4,5)) ;
+
 
 
