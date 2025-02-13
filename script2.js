@@ -20,7 +20,7 @@ function getMin(...nums){
     return mini ;
 }
 
-console.log(getMin(1,2,3,4,5)) ;
+console.log(getMax(1 ,2,3,4,5))
 
 
 
