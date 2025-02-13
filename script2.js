@@ -25,3 +25,5 @@ console.log(getMin(1,2,3,4,5)) ;
 
 
 
+consol.log("hello world") ;
+
